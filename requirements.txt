@@ -14,7 +14,7 @@ psycopg2==2.7.1
 #git+https://github.com/Twistbioscience/django-salesforce.git@v0.7.3
 git+https://github.com/Twistbioscience/django-salesforce.git@ca4635c548fa8e6323750751ef9d72452ea841f5
 
-djangorestframework==3.6.2
+djangorestframework==3.11.2
 django-rest-swagger==2.1.2
 celery==4.0.2
 redis==2.10.5
