@@ -47,7 +47,7 @@ unicodecsv==0.14.1
 Cython==0.27.3
 yarl==1.1.0
 multidict==4.1.0
-urllib3==1.22
+urllib3==1.26.5
 pycryptodome==3.6.1
 stripe==2.10.1
 
