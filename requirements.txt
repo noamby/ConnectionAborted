@@ -16,7 +16,7 @@ git+https://github.com/Twistbioscience/django-salesforce.git@ca4635c548fa8e63237
 
 djangorestframework==3.6.2
 django-rest-swagger==2.1.2
-celery==4.0.2
+celery==5.2.2
 redis==2.10.5
 logstash_formatter==0.5.16
 jsonfield==2.0.1
