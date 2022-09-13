@@ -29,7 +29,7 @@ whitenoise==3.3.0
 django-redis==4.8.0
 gevent==1.2.2
 newrelic==2.96.0.80
-flower==0.9.2
+flower==1.2.0
 requests[security]==2.18.4
 django-extensions==1.7.9
 hvac==0.2.17
